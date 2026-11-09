@@ -1,0 +1,6 @@
+{
+  "name": "Guess It",
+  "description": "An arcade-inspired number guessing web game featuring dynamic difficulty, crypto-random generation, interactive hints, Supabase auth and global leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
